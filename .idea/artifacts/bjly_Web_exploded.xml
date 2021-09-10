@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bjly:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bjly_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bjly/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bjly" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="ueditor-1.1.2.jar" module-name="bjly" />
+          <element id="library" level="module" name="json.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-io-2.4.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-fileupload-1.3.1.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-codec-1.9.jar" module-name="bjly" />
+          <element id="library" level="module" name="struts.jar" module-name="bjly" />
+          <element id="library" level="module" name="struts-legacy.jar" module-name="bjly" />
+          <element id="library" level="module" name="mysql-connector-java-5.0.8-bin.jar" module-name="bjly" />
+          <element id="library" level="module" name="msutil.jar" module-name="bjly" />
+          <element id="library" level="module" name="mssqlserver.jar" module-name="bjly" />
+          <element id="library" level="module" name="msbase.jar" module-name="bjly" />
+          <element id="library" level="module" name="jakarta-oro.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-validator.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-logging.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-lang.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-digester.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-collections.jar" module-name="bjly" />
+          <element id="library" level="module" name="commons-beanutils.jar" module-name="bjly" />
+          <element id="library" level="module" name="FCKeditor-2.3.jar" module-name="bjly" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
